@@ -1,0 +1,247 @@
+{
+  "locations": {
+    "eng": {
+      "islands": [
+        "Treasure Island",
+        "Emerald Island",
+        "Foggy Island",
+        "Crystal Bay",
+        "Golden Coast",
+        "Island of Advantages",
+        "Island of Anchors",
+        "Island of Opportunities",
+        "Island of Decisions",
+        "Island of Experience"
+      ],
+      "straits": [
+        "Strait of Hurricanes",
+        "Strait of Calm Waters",
+        "Strait of Cold Wind",
+        "Stormy Isthmus",
+        "Pearl Channel",
+        "Strait of Rapid Currents",
+        "Lock Channel",
+        "Drafty Strait",
+        "Stream of Luck",
+        "Accelerating Current",
+        "Channel of Laziness"
+      ],
+      "oceans": [
+        "Ocean of Dreams",
+        "Ocean of Silence",
+        "Cold Sea",
+        "Sea of Revelation",
+        "Mystical Ocean",
+        "Ocean of Absolute Calm",
+        "Sea of Open Sails",
+        "Ocean of Favorable Winds",
+        "Ocean of Free Dolphins",
+        "Ocean of Risks",
+        "Ocean of Drifting Ships"
+      ]
+    },
+    "rus": {
+      "islands": [
+        "Остров Сокровищ",
+        "Изумрудный Остров",
+        "Туманный Остров",
+        "Кристальная Бухта",
+        "Золотой Берег",
+        "Остров Преимуществ",
+        "Остров Якорей",
+        "Остров Возможностей",
+        "Остров Утрат",
+        "Остров Опыта"
+      ],
+      "straits": [
+        "Пролив Ураганов",
+        "Пролив Тихих вод",
+        "Пролив Холодного ветра",
+        "Штормовой Перешеек",
+        "Жемчужный Канал",
+        "Пролив быстрого течения",
+        "Шлюзовый канал",
+        "Перешеек любви",
+        "Сквозняковый пролив",
+        "Поток Везения",
+        "Ускоряющее течение",
+        "Канал лени"
+      ],
+      "oceans": [
+        "Океан Снов",
+        "Океан Тишины",
+        "Холодное море",
+        "Море Откровения",
+        "Мистический океан",
+        "Океан Абсолютного спокойствия",
+        "Заводь Разбитых кораблей",
+        "Море Раскрытых парусов",
+        "Океан Попутного ветра",
+        "Океан Свободных дельфинов",
+        "Заводь Отношений",
+        "Океан Рисков",
+        "Океан Дрейфующих кораблей"
+      ]
+    },
+    "fra": {
+      "islands": [
+        "Île aux Trésors",
+        "Île d'Émeraude",
+        "Île Brumeuse",
+        "Baie Cristalline",
+        "Côte Dorée",
+        "Île des Avantages",
+        "Île des Ancres",
+        "Île des Opportunités",
+        "Île des Décisions",
+        "Île de l'Expérience"
+      ],
+      "straits": [
+        "Détroit des Ouragans",
+        "Détroit des Eaux Calmes",
+        "Détroit du Vent Froid",
+        "Isthme Tempétueux",
+        "Canal des Perles",
+        "Détroit des Courants Rapides",
+        "Canal des Écluses",
+        "Détroit Venteux",
+        "Courant de Chance",
+        "Courant Accélérateur",
+        "Canal de la Paresse"
+      ],
+      "oceans": [
+        "Océan des Rêves",
+        "Océan du Silence",
+        "Mer Froide",
+        "Mer de la Révélation",
+        "Océan Mystique",
+        "Océan du Calme Absolu",
+        "Mer des Voiles Ouvertes",
+        "Océan des Vents Favorables",
+        "Océan des Dauphins Libres",
+        "Océan des Risques",
+        "Océan des Navires à la Dérive"
+      ]
+    },
+    "deu": {
+      "islands": [
+        "Schatzinsel",
+        "Smaragdinsel",
+        "Nebelinsel",
+        "Kristallbucht",
+        "Goldene Küste",
+        "Insel der Vorteile",
+        "Insel der Anker",
+        "Insel der Möglichkeiten",
+        "Insel der Entscheidungen",
+        "Insel der Erfahrungen"
+      ],
+      "straits": [
+        "Hurrikanstraße",
+        "Straße der Stillen Gewässer",
+        "Straße des Kalten Windes",
+        "Stürmische Landenge",
+        "Perlenkanal",
+        "Straße der Schnellen Strömungen",
+        "Schleusenkanal",
+        "Windige Straße",
+        "Strömung des Glücks",
+        "Beschleunigende Strömung",
+        "Kanal der Faulheit"
+      ],
+      "oceans": [
+        "Ozean der Träume",
+        "Ozean der Stille",
+        "Kaltes Meer",
+        "Meer der Offenbarung",
+        "Mystischer Ozean",
+        "Ozean der Absoluten Ruhe",
+        "Meer der Entfalteten Segel",
+        "Ozean der Günstigen Winde",
+        "Ozean der Freien Delfine",
+        "Ozean der Risiken",
+        "Ozean der Treibenden Schiffe"
+      ]
+    },
+    "spa": {
+      "islands": [
+        "Isla del Tesoro",
+        "Isla Esmeralda",
+        "Isla Nublada",
+        "Bahía Cristalina",
+        "Costa Dorada",
+        "Isla de las Ventajas",
+        "Isla de los Anclajes",
+        "Isla de las Oportunidades",
+        "Isla de las Decisiones",
+        "Isla de la Experiencia"
+      ],
+      "straits": [
+        "Estrecho de los Huracanes",
+        "Estrecho de Aguas Tranquilas",
+        "Estrecho del Viento Frío",
+        "Istmo Tormentoso",
+        "Canal de las Perlas",
+        "Estrecho de las Corrientes Rápidas",
+        "Canal de las Compuertas",
+        "Estrecho Ventoso",
+        "Corriente de la Suerte",
+        "Corriente Aceleradora",
+        "Canal de la Pereza"
+      ],
+      "oceans": [
+        "Océano de los Sueños",
+        "Océano del Silencio",
+        "Mar Frío",
+        "Mar de la Revelación",
+        "Océano Místico",
+        "Océano de la Calma Absoluta",
+        "Mar de las Velas Desplegadas",
+        "Océano de los Vientos Favorables",
+        "Océano de los Delfines Libres",
+        "Océano de los Riesgos",
+        "Océano de los Barcos a la Deriva"
+      ]
+    },
+    "ita": {
+      "islands": [
+        "Isola del Tesoro",
+        "Isola di Smeraldo",
+        "Isola Nebbiosa",
+        "Baia Cristallina",
+        "Costa Dorata",
+        "Isola dei Vantaggi",
+        "Isola delle Ancore",
+        "Isola delle Opportunità",
+        "Isola delle Decisioni",
+        "Isola dell'Esperienza"
+      ],
+      "straits": [
+        "Stretto degli Uragani",
+        "Stretto delle Acque Tranquille",
+        "Stretto del Vento Freddo",
+        "Stretto Tempestoso",
+        "Canale delle Perle",
+        "Stretto delle Correnti Veloci",
+        "Canale delle Chiuse",
+        "Stretto Ventoso",
+        "Flusso della Fortuna",
+        "Corrente Accelerante",
+        "Canale della Pigrizia"
+      ],
+      "oceans": [
+        "Oceano dei Sogni",
+        "Oceano del Silenzio",
+        "Mare Freddo",
+        "Mare della Rivelazione",
+        "Oceano Mistico",
+        "Oceano della Calma Assoluta",
+        "Mare delle Vele Spiegate",
+        "Oceano dei Venti Propizi",
+        "Oceano dei Delfini Liberi",
+        "Oceano dei Rischi",
+        "Oceano delle Navi alla Deriva"
+      ]
+    }
+  }
+}

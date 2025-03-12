@@ -1,0 +1,282 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "translations": {
+        "rus": "Какое мое качество создает проблему в решении вопроса?",
+        "eng": "What quality of mine creates a problem in solving the issue?",
+        "fra": "Quelle qualité de moi crée un problème pour résoudre la question?",
+        "deu": "Welche meiner Eigenschaften erschwert die Lösung des Problems?",
+        "ita": "Quale mia qualità crea un problema nel risolvere la questione?",
+        "spa": "¿Qué cualidad mía crea un problema para resolver la cuestión?"
+      }
+    },
+    {
+      "id": 2,
+      "translations": {
+        "rus": "Где я нахожусь сейчас?",
+        "eng": "Where am I right now?",
+        "fra": "Où suis-je en ce moment?",
+        "deu": "Wo befinde ich mich gerade?",
+        "ita": "Dove mi trovo in questo momento?",
+        "spa": "¿Dónde estoy ahora mismo?"
+      }
+    },
+    {
+      "id": 3,
+      "translations": {
+        "rus": "Куда я хочу попасть?",
+        "eng": "Where do I want to go?",
+        "fra": "Où veux-je aller?",
+        "deu": "Wohin möchte ich gehen?",
+        "ita": "Dove voglio arrivare?",
+        "spa": "¿A dónde quiero ir?"
+      }
+    },
+    {
+      "id": 4,
+      "translations": {
+        "rus": "Что привело меня к этой ситуации?",
+        "eng": "What brought me to this situation?",
+        "fra": "Qu'est-ce qui m'a amené à cette situation?",
+        "deu": "Was hat mich in diese Situation gebracht?",
+        "ita": "Cosa mi ha portato in questa situazione?",
+        "spa": "¿Qué me llevó a esta situación?"
+      }
+    },
+    {
+      "id": 5,
+      "translations": {
+        "rus": "Что мне поможет добиться результата?",
+        "eng": "What will help me achieve the result?",
+        "fra": "Qu'est-ce qui m'aidera à atteindre le résultat?",
+        "deu": "Was wird mir helfen, das Ergebnis zu erreichen?",
+        "ita": "Cosa mi aiuterà a ottenere il risultato?",
+        "spa": "¿Qué me ayudará a lograr el resultado?"
+      }
+    },
+    {
+      "id": 6,
+      "translations": {
+        "rus": "Какое качество может мне помочь?",
+        "eng": "What quality can help me?",
+        "fra": "Quelle qualité peut m'aider?",
+        "deu": "Welche Eigenschaft kann mir helfen?",
+        "ita": "Quale qualità può aiutarmi?",
+        "spa": "¿Qué cualidad puede ayudarme?"
+      }
+    },
+    {
+      "id": 7,
+      "translations": {
+        "rus": "Где я могу найти ответ на свой вопрос?",
+        "eng": "Where can I find the answer to my question?",
+        "fra": "Où puis-je trouver la réponse à ma question?",
+        "deu": "Wo kann ich die Antwort auf meine Frage finden?",
+        "ita": "Dove posso trovare la risposta alla mia domanda?",
+        "spa": "¿Dónde puedo encontrar la respuesta a mi pregunta?"
+      }
+    },
+    {
+      "id": 8,
+      "translations": {
+        "rus": "Что затрудняет продвижение в этом вопросе?",
+        "eng": "What hinders progress on this issue?",
+        "fra": "Qu'est-ce qui entrave les progrès sur cette question?",
+        "deu": "Was behindert den Fortschritt bei dieser Frage?",
+        "ita": "Cosa ostacola i progressi su questa questione?",
+        "spa": "¿Qué dificulta el progreso en esta cuestión?"
+      }
+    },
+    {
+      "id": 9,
+      "translations": {
+        "rus": "Какие эмоции мне сейчас нужны?",
+        "eng": "What emotions do I need right now?",
+        "fra": "De quelles émotions ai-je besoin en ce moment?",
+        "deu": "Welche Emotionen brauche ich jetzt?",
+        "ita": "Di quali emozioni ho bisogno in questo momento?",
+        "spa": "¿Qué emociones necesito ahora?"
+      }
+    },
+    {
+      "id": 10,
+      "translations": {
+        "rus": "Общение с какими людьми мне сейчас нужно?",
+        "eng": "What kind of people do I need to communicate with now?",
+        "fra": "Avec quel type de personnes dois-je communiquer maintenant?",
+        "deu": "Mit welchen Leuten muss ich mich jetzt unterhalten?",
+        "ita": "Con quali persone devo comunicare adesso?",
+        "spa": "¿Con qué tipo de personas debo comunicarme ahora?"
+      }
+    },
+    {
+      "id": 11,
+      "translations": {
+        "rus": "Чему меня может научить нынешняя ситуация?",
+        "eng": "What can the current situation teach me?",
+        "fra": "Que peut m'apprendre la situation actuelle?",
+        "deu": "Was kann mich die aktuelle Situation lehren?",
+        "ita": "Cosa può insegnarmi la situazione attuale?",
+        "spa": "¿Qué puede enseñarme la situación actual?"
+      }
+    },
+    {
+      "id": 12,
+      "translations": {
+        "rus": "Чего мне стоит остерегаться в данный момент?",
+        "eng": "What should I be wary of at the moment?",
+        "fra": "De quoi dois-je me méfier en ce moment?",
+        "deu": "Wovor sollte ich mich im Moment hüten?",
+        "ita": "Di cosa dovrei stare attento in questo momento?",
+        "spa": "¿De qué debería tener cuidado en este momento?"
+      }
+    },
+    {
+      "id": 13,
+      "translations": {
+        "rus": "Какие внутренние силы мне помогают?",
+        "eng": "What inner strengths are helping me?",
+        "fra": "Quelles forces intérieures m'aident?",
+        "deu": "Welche inneren Kräfte helfen mir?",
+        "ita": "Quali forze interiori mi stanno aiutando?",
+        "spa": "¿Qué fortalezas internas me están ayudando?"
+      }
+    },
+    {
+      "id": 14,
+      "translations": {
+        "rus": "Какая черта характера выводит меня на верный путь?",
+        "eng": "What trait leads me on the right path?",
+        "fra": "Quelle qualité me met sur la bonne voie?",
+        "deu": "Welche Eigenschaft bringt mich auf den richtigen Weg?",
+        "ita": "Quale tratto mi porta sulla strada giusta?",
+        "spa": "¿Qué rasgo me lleva por el camino correcto?"
+      }
+    },
+    {
+      "id": 15,
+      "translations": {
+        "rus": "Совпадает ли ожидания с реальностью?",
+        "eng": "Do expectations match reality?",
+        "fra": "Les attentes correspondent-elles à la réalité?",
+        "deu": "Entsprechen die Erwartungen der Realität?",
+        "ita": "Le aspettative corrispondono alla realtà?",
+        "spa": "¿Coinciden las expectativas con la realidad?"
+      }
+    },{
+      "questions": [
+        {
+          "id": 16,
+          "translations": {
+            "rus": "Бороться или отпустить все на волю случая?",
+            "eng": "Fight or leave everything to chance?",
+            "fra": "Faut-il se battre ou laisser faire le hasard ?",
+            "deu": "Kämpfen oder alles dem Zufall überlassen?",
+            "ita": "Lottare o lasciare tutto al caso?",
+            "spa": "¿Luchar o dejar todo al azar?"
+          }
+        },
+        {
+          "id": 17,
+          "translations": {
+            "rus": "Чем я готов/а пожертвовать ради цели?",
+            "eng": "What am I willing to sacrifice for the goal?",
+            "fra": "Que suis-je prêt(e) à sacrifier pour atteindre mon objectif ?",
+            "deu": "Was bin ich bereit, für das Ziel zu opfern?",
+            "ita": "Cosa sono disposto/a a sacrificare per l'obiettivo?",
+            "spa": "¿Qué estoy dispuesto/a a sacrificar por el objetivo?"
+          }
+        },
+        {
+          "id": 18,
+          "translations": {
+            "rus": "Можно ли прыгнуть выше головы?",
+            "eng": "Can one exceed their limitations?",
+            "fra": "Peut-on se surpasser ?",
+            "deu": "Kann man über sich selbst hinauswachsen?",
+            "ita": "Si possono superare i propri limiti?",
+            "spa": "¿Se pueden superar los propios límites?"
+          }
+        },
+        {
+          "id": 19,
+          "translations": {
+            "rus": "Кто будет смеяться последним?",
+            "eng": "Who will have the last laugh?",
+            "fra": "Qui rira le dernier ?",
+            "deu": "Wer zuletzt lacht, lacht am besten?",
+            "ita": "Chi riderà per ultimo?",
+            "spa": "¿Quién reirá el último?"
+          }
+        },
+        {
+          "id": 20,
+          "translations": {
+            "rus": "Нужно ли иметь семь пядей во лбу?",
+            "eng": "Do you need to be a genius?",
+            "fra": "Faut-il être un génie ?",
+            "deu": "Muss man ein Genie sein?",
+            "ita": "Bisogna essere un genio?",
+            "spa": "¿Hay que ser un genio?"
+          }
+        },
+        {
+          "id": 21,
+          "translations": {
+            "rus": "Что для меня важно в этой ситуации?",
+            "eng": "What matters to me in this situation?",
+            "fra": "Qu'est-ce qui est important pour moi dans cette situation ?",
+            "deu": "Was ist mir in dieser Situation wichtig?",
+            "ita": "Cosa è importante per me in questa situazione?",
+            "spa": "¿Qué es importante para mí en esta situación?"
+          }
+        },
+        {
+          "id": 22,
+          "translations": {
+            "rus": "После чего замкнулся круг?",
+            "eng": "What completed the circle?",
+            "fra": "Qu'est-ce qui a bouclé la boucle ?",
+            "deu": "Wodurch hat sich der Kreis geschlossen?",
+            "ita": "Cosa ha chiuso il cerchio?",
+            "spa": "¿Qué cerró el círculo?"
+          }
+        },
+        {
+          "id": 23,
+          "translations": {
+            "rus": "Что тянет меня назад?",
+            "eng": "What's holding me back?",
+            "fra": "Qu'est-ce qui me retient ?",
+            "deu": "Was hält mich zurück?",
+            "ita": "Cosa mi trattiene?",
+            "spa": "¿Qué me está frenando?"
+          }
+        },
+        {
+          "id": 24,
+          "translations": {
+            "rus": "Почему важно не отступать назад?",
+            "eng": "Why is it important not to back down?",
+            "fra": "Pourquoi est-il important de ne pas reculer ?",
+            "deu": "Warum ist es wichtig, nicht aufzugeben?",
+            "ita": "Perché è importante non tirarsi indietro?",
+            "spa": "¿Por qué es importante no retroceder?"
+          }
+        },
+        {
+          "id": 25,
+          "translations": {
+            "rus": "По чьим правилам я играю?",
+            "eng": "Whose rules am I playing by?",
+            "fra": "Selon quelles règles est-ce que je joue ?",
+            "deu": "Nach wessen Regeln spiele ich?",
+            "ita": "Secondo quali regole sto giocando?",
+            "spa": "¿Bajo qué reglas estoy jugando?"
+          }
+        }
+      ]
+    }
+  ]
+}
